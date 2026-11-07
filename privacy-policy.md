@@ -54,4 +54,4 @@
 
 Разработчик: NeuroCode  
 Telegram: https://t.me/dev_aitech  
-Email: [укажите email разработчика]
+Email: neuralis@ya.ru
